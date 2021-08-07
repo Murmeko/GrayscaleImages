@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'GrayscaleImages_Example' do
+  pod 'GrayscaleImages', :path => '../'
+
+  target 'GrayscaleImages_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
