@@ -1,0 +1,6 @@
+framework module GrayscaleImages {
+  umbrella header "GrayscaleImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

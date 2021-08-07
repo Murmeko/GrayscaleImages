@@ -1,0 +1,22 @@
+{
+  "name": "GrayscaleImages",
+  "version": "0.1.0",
+  "summary": "A short description of GrayscaleImages.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Murmeko/GrayscaleImages",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Murmeko": "yigiterdinc@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Murmeko/GrayscaleImages.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GrayscaleImages/Classes/**/*"
+}
