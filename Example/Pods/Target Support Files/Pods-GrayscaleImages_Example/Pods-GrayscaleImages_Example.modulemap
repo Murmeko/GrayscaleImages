@@ -1,0 +1,6 @@
+framework module Pods_GrayscaleImages_Example {
+  umbrella header "Pods-GrayscaleImages_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

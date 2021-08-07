@@ -1,0 +1,16 @@
+PODS:
+  - GrayscaleImages (0.1.0)
+
+DEPENDENCIES:
+  - GrayscaleImages (from `../`)
+
+EXTERNAL SOURCES:
+  GrayscaleImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GrayscaleImages: 51883f4ea6aa0457f779ecc9498540bdfb748601
+
+PODFILE CHECKSUM: adcebc9ab4daab7a3a0c7ce2459f5458be09a33f
+
+COCOAPODS: 1.10.2
