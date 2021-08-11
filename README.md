@@ -5,9 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
 [![Platform](https://img.shields.io/cocoapods/p/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
 
-## Example
+## Learn how to use / how to create
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+### English
+[Medium](https://medium.com/@yigiterdinc/ios-app-development-publishing-a-cocoapods-library-with-swift-that-turns-pictures-to-grayscale-46aaee2f3f94)
+[Dev.to](https://dev.to/murmeko/ios-app-development-publishing-a-cocoapods-library-with-swift-that-turns-pictures-to-grayscale-2k2g)
+
+### Turkish
+[Medium](https://medium.com/@yigiterdinc/ios-uygulama-geli%C5%9Ftirme-swift-ile-resimleri-siyah-beyaza-%C3%A7eviren-bir-cocoapods-k%C3%BCt%C3%BCphanesi-500883f83864)
 
 ## Requirements
 
