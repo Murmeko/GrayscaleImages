@@ -3,7 +3,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
 [![Version](https://img.shields.io/cocoapods/v/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
 [![Bitrise Build Status](https://app.bitrise.io/app/3864fadf5ed38070/status.svg?token=lr6MH_yHt83DyAI7iHzs_g)](https://app.bitrise.io/app/3864fadf5ed38070)
-[![Travis Build Status](https://app.travis-ci.com/Murmeko/GrayscaleImages.svg?branch=master)](https://app.travis-ci.com/Murmeko/GrayscaleImages)
+[![Travis Build Status](https://app.travis-ci.com/Murmeko/GrayscaleImages.svg?branch=main)](https://app.travis-ci.com/Murmeko/GrayscaleImages)
 [![Maintainability](https://api.codeclimate.com/v1/badges/b3b3e75290e6a7cc95d3/maintainability)](https://codeclimate.com/github/Murmeko/GrayscaleImages/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b3b3e75290e6a7cc95d3/test_coverage)](https://codeclimate.com/github/Murmeko/GrayscaleImages/test_coverage)
 [![License](https://img.shields.io/cocoapods/l/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
