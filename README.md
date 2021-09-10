@@ -8,6 +8,8 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/b3b3e75290e6a7cc95d3/test_coverage)](https://codeclimate.com/github/Murmeko/GrayscaleImages/test_coverage)
 [![License](https://img.shields.io/cocoapods/l/GrayscaleImages.svg?style=flat)](https://cocoapods.org/pods/GrayscaleImages)
 
+GrayscaleImages is an opensource Swift library that converts UIImages to black and white.
+
 ## Requirements
 
 | Platform | Installation |
